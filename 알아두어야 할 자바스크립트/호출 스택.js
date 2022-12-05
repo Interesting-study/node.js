@@ -1,9 +1,9 @@
 function run(){
-    console.log('3ÃÊ ÈÄ ½ÇÇà')
+    console.log('3ì´ˆ í›„ ì‹¤í–‰')
 }
 
-console.log('½ÃÀÛ');
+console.log('ì‹œìž‘');
 setTimeout(run, 3000);
-console.log('³¡');
+console.log('ë');
 
-// ½ÃÀÛ -> ³¡ -> 3ÃÊ ÈÄ ½ÇÇà
+// ì‹œìž‘ -> ë -> 3ì´ˆ í›„ ì‹¤í–‰
