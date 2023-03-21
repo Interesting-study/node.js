@@ -24,5 +24,5 @@ if (isMainThread) {
 } else {
     const data = workerData;
     parentPort.postMessage(data.start + 100);
+    console.log(data);
 }
-// console.log();
